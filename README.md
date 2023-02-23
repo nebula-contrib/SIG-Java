@@ -11,4 +11,6 @@ Sig-Java is a Special Interest Group for NebulaGraph Java encology. It aims to p
 
 ## How to contribute?
 
-
+- ngbatis contribute guide
+    - [CONTRIBUTE-en.md](https://github.com/nebula-contrib/ngbatis/blob/master/CONTRIBUTING.md)
+    - [共同开发指南](https://github.com/nebula-contrib/ngbatis/blob/master/CONTRIBUTING-CN.md)
